@@ -1,0 +1,5 @@
+# file: app/requirements.txt
+fastapi==0.162.2
+uvicorn==0.54.0
+prometheus-client==0.26.0
+
