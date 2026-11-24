@@ -1,0 +1,3 @@
+# file: app/requirements-dev.txt
+pytest==9.2.0
+httpx2==2.16.0 # TestClient của Starlette 1.x dùng httpx2; httpx cũ sẽ báo deprecated
